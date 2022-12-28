@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">Binlist</string>
+
+    <string name="screen_name_home">Home screen</string>
+    <string name="screen_name_details">Details screen</string>
+
+    <string name="ui_text_null_value">\???</string>
+    <string name="ui_text_label_brand">Brand</string>
+    <string name="ui_text_yes">YES</string>
+    <string name="ui_text_no">NO</string>
+    <string name="ui_text_label_prepaid">Prepaid</string>
+    <string name="ui_text_label_type">Type</string>
+    <string name="ui_text_label_scheme">Scheme</string>
+    <string name="ui_text_label_name">Name</string>
+    <string name="ui_text_label_phone">Phone</string>
+    <string name="ui_text_label_url">Url</string>
+    <string name="ui_text_label_city">City</string>
+    <string name="ui_text_label_country">Country</string>
+    <string name="ui_text_label_currency">Currency</string>
+    <string name="ui_text_label_latitude">Latitude</string>
+    <string name="ui_text_label_longitude">Longitude</string>
+    <string name="ui_text_label_length">Length</string>
+    <string name="ui_text_label_luhn">LUHN</string>
+    <string name="ui_placeholder_main">enter card number</string>
+    <string name="ui_label_main">card number</string>
+    <string name="ui_label_error">wrong number</string>
+    <string name="ui_button_text_back">Back</string>
+
+    <string name="message_error_load_data">Error: Data is not loaded.</string>
+    <string name="message_error_not_number">Value is not number</string>
+    <string name="message_error_number_less_4">Value less than 4</string>
+    <string name="message_error_number_greater_12">Value greater than 12</string>
+
+    <string name="content_description_button_back">button Back</string>
+    <string name="content_description_button_query">Query button</string>
+
 </resources>
