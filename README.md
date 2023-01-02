@@ -14,3 +14,7 @@
 
 ## Solution of problems:
 - start intent from composable fun
+
+## Demo:
+<img alt="demo" src="https://github.com/aleh-god/Binlist/blob/master/binlistdemo1.jpg" />
+<img alt="demo" src="https://github.com/aleh-god/Binlist/blob/master/binlistdemo2.jpg" />
